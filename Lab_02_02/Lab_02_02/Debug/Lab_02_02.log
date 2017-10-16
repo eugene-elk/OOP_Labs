@@ -1,0 +1,28 @@
+﻿  exceptions.cpp
+  Создание кода...
+  Компиляция...
+  Source.cpp
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(30): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(48): note: см. ссылку на создание экземпляров класса шаблон при компиляции "StatisticMultiset<T>"
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(35): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(38): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(41): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(44): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(95): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(84): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  d:\labs cpp\lab_02_02\lab_02_02\source.cpp(18): note: см. ссылку на создание экземпляров функции шаблон при компиляции "float StatisticMultiset<double>::GetAvg(void) throw(exc_empty_multiset) const"
+  d:\labs cpp\lab_02_02\lab_02_02\source.cpp(9): note: см. ссылку на создание экземпляров класса шаблон при компиляции "StatisticMultiset<double>"
+  Создание кода...
+  Компиляция...
+  Cache.cpp
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(30): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(48): note: см. ссылку на создание экземпляров класса шаблон при компиляции "StatisticMultiset<T>"
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(35): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(38): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(41): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(44): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+d:\labs cpp\lab_02_02\lab_02_02\statisticmultiset.h(47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Создание кода...
+  Lab_02_02.vcxproj -> D:\LABS CPP\Lab_02_02\Debug\Lab_02_02.exe
+  Lab_02_02.vcxproj -> D:\LABS CPP\Lab_02_02\Debug\Lab_02_02.pdb (Full PDB)
