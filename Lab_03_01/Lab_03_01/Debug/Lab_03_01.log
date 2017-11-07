@@ -1,3 +1,20 @@
-﻿  main.cpp
+﻿  wav_core.cpp
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(73): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(244): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(258): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(263): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(290): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(301): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(319): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(328): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(333): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(338): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(344): warning C4018: <: несоответствие типов со знаком и без знака
+d:\labs cpp\lab_03_01\lab_03_01\wav_core.cpp(357): warning C4018: <: несоответствие типов со знаком и без знака
   Lab_03_01.vcxproj -> D:\LABS CPP\Lab_03_01\Debug\Lab_03_01.exe
   Lab_03_01.vcxproj -> D:\LABS CPP\Lab_03_01\Debug\Lab_03_01.pdb (Full PDB)

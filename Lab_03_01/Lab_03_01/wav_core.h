@@ -26,12 +26,7 @@ public:
 	// Also checks header validity
 	void CreateFromFile(const char* filename);
 
-	// Reads file 'filename' and puts header's data to 'header_ptr' address.
-	// Also checks header validity
-	void read_header(const char* filename);
-
 	// Prints header's data
-	void addToStr(std::string& in, std::string in2, unsigned long num);
 	std::string GetDescription();
 
 	// Creates a new WAV file 'filename', using 'sample_rate' and PCM data from 'channels_data'.
@@ -57,6 +52,8 @@ private:
 	wav_header_s header;
 	std::vector<std::vector<short>> channels_data;
 
+	void addToStr(std::string& in, std::string in2, unsigned long num);
+
 	// ************************************************************************
 	// * Private functions
 	// ************************************************************************
@@ -73,4 +70,7 @@ private:
 	// Fills 'header_ptr' with default values.
 	void prefill_header();
 
+	// Reads file 'filename' and puts header's data to 'header_ptr' address.
+	// Also checks header validity
+	void read_header(const char* filename);
 };
